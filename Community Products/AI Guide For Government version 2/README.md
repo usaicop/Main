@@ -9,6 +9,23 @@ The AI Guide for Government is designed to:
 - Foster a culture of collaboration and knowledge sharing among federal agencies.
 - Ensure content accuracy and relevance by enabling agencies to take ownership of guide sections pertinent to their expertise.
 
+### Who, What, When: Authoritative Sources and Contributions
+
+#### Who: Members of the Community
+- **Cybersecurity & Infrastructure Security Agency (CISA) and Department of Homeland Security (DHS):** Authoritative sources for security-related content, providing guidance on securing AI systems and infrastructure.
+- **National Institute of Standards and Technology (NIST):** Contributes standards, frameworks, and best practices for AI technologies and data management.
+- **National Institutes of Health (NIH):** Offers expertise in scientific research applications of AI, particularly in health and biomedical domains.
+
+#### What: Areas of Expertise
+- **CISA & DHS:** Cybersecurity practices, threat analysis, and protection mechanisms for AI and ML systems.
+- **NIST:** Technical standards, measurement science, and guidelines for responsible AI implementation.
+- **NIH:** AI applications in healthcare, ethical considerations in biomedical research, and data sharing protocols.
+
+#### When: Timeline for Collaboration and Contribution
+- **Ongoing Collaboration:** The guide encourages continuous contributions and updates from federal agencies to ensure it remains a current and valuable resource.
+- **Annual Review:** A structured review process occurs annually, allowing for significant updates and the inclusion of new developments and insights in the field of AI.
+
+
 ## 📚 Guide Structure
 
 The guide is organized into detailed sections, each tailored to provide insights into different aspects of AI and ML, including operational practices, ethical considerations, and practical applications:
