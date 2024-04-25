@@ -1,78 +1,60 @@
-/* Reset some basic elements */
-body, h1, h2, h3, p, figure {
-  margin: 0;
-  padding: 0;
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  color: #333;
-  background-color: #f4f4f4;
-  padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    padding: 10px;
 }
 
-/* Container for content to center it on the page */
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  background: white;
-  padding: 20px;
-}
-
-/* Header styles */
-header {
-  background: #007bff;
-  color: #ffffff;
-  padding: 20px 0;
-  text-align: center;
-}
-
-header h1 {
-  margin: 0;
-}
-
-/* Navigation styles */
 nav {
-  display: flex;
-  justify-content: center;
-  background: #333;
-  padding: 10px 0;
+    text-align: center;
+    background: #333;
+    padding: 10px 0;
 }
 
 nav a {
-  color: white;
-  padding: 0 20px;
-  text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 0 10px;
+    background-color: #555;
+    border-radius: 5px;
 }
 
 nav a:hover {
-  background-color: #555;
+    background-color: #777;
 }
 
-/* Main content styles */
 main {
-  padding: 20px;
+    margin-top: 20px;
 }
 
-/* Footer styles */
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
 footer {
-  background-color: #007bff;
-  color: white;
-  text-align: center;
-  padding: 10px 0;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
 }
 
-/* Media queries for responsiveness */
 @media (max-width: 768px) {
-  nav {
-    flex-direction: column;
-  }
-
-  nav a {
-    padding: 10px;
-  }
+    nav a {
+        display: block;
+        margin-bottom: 5px;
+    }
 }
