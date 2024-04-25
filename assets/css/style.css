@@ -1,10 +1,10 @@
 /* Define the base color palette */
 :root {
-    --primary-color: #007bff;  /* Blue, for headers, nav, and buttons */
+    --primary-color: #028dcf;  /* Blue, for headers, nav, and buttons */
     --secondary-color: #ffffff; /* White, for background of container */
     --accent-color: #ffc107;    /* Yellow, for hover states */
     --text-color: #212529;      /* Almost black, for text readability */
-    --footer-background: #343a40; /* Dark grey, for footer */
+    --footer-background: #72b231; /* Dark grey, for footer */
 }
 
 /* Basic Reset */
