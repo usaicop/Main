@@ -13,10 +13,14 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
     <h2 style="color: #199fb0;">📚 Federal AI Resources</h2>
     <p>Below is a list of important federal AI resources, including guidance, standards, and executive orders. These documents provide a framework for understanding and implementing AI technologies in federal operations.</p>
 
-    <h3 style="color: #32aab9;">Guidance and Best Practices</h3>
-    - [AI.gov](https://www.ai.gov) - The official website for AI initiatives across the federal government.<br>
-    - [NIST AI Framework](https://www.nist.gov/ai) - Guidelines and frameworks for AI from the National Institute of Standards and Technology.<br>
-    - [Federal Data Strategy](https://strategy.data.gov) - Strategies for leveraging data as a strategic asset.
+  ### Guidance and Best Practices
+
+<div style="color: #32aab9;"><strong>Guidance and Best Practices</strong></div>
+
+- ![AI.gov](https://img.shields.io/badge/-AI.gov-32aab9?style=flat-square&logo=appveyor) [AI.gov](https://www.ai.gov) - The official website for AI initiatives across the federal government.
+- ![NIST AI Framework](https://img.shields.io/badge/-NIST%20AI%20Framework-32aab9?style=flat-square&logo=appveyor) [NIST AI Framework](https://www.nist.gov/ai) - Guidelines and frameworks for AI from the National Institute of Standards and Technology.
+- ![Federal Data Strategy](https://img.shields.io/badge/-Federal%20Data%20Strategy-32aab9?style=flat-square&logo=appveyor) [Federal Data Strategy](https://strategy.data.gov) - Strategies for leveraging data as a strategic asset.
+
 </div>
 
 <div align="center" style="margin-top: 20px; background-color: #99d4dc; padding: 15px; border-radius: 8px;">
