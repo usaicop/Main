@@ -1,6 +1,3 @@
-
-<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-
 # Contributing to GSA Artificial Intelligence Community of Practice
 
 Thank you for your interest in contributing to the GSA Artificial Intelligence Community of Practice! We value the contributions from our community members and look forward to your participation.
@@ -29,7 +26,7 @@ We actively welcome your pull requests and contributions to improve the Artifici
 
 ## Reporting Issues
 
-We use GitHub issues to track public bugs and feature requests. Report a problem by [opening a new issue](https://(https://github.com/GSA-AI-Community-of-Practice/issues); it's that easy!
+We use GitHub issues to track public bugs and feature requests. Report a problem by [opening a new issue](https://github.com/GSA-AI-Community-of-Practice/Main/issues); it's that easy!
 
 ## Pull Request Guidelines
 
@@ -46,10 +43,10 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Participation in the GSA AI Community of Practice is governed by our [Code of Conduct] (https://github.com/GSA-AI-Community-of-Practice/CodeofConduct). By participating, you are expected to uphold this code.
+Participation in the GSA AI Community of Practice is governed by our [Code of Conduct](https://github.com/GSA-AI-Community-of-Practice/CodeofConduct). By participating, you are expected to uphold this code.
 
 ## Need Help?
 
-Don't hesitate to ask for help on Github or by emailing the AiCoP!
+Don't hesitate to ask for help on GitHub or by emailing the AiCoP!
 
 Thank you for contributing to the GSA Artificial Intelligence Community of Practice!
