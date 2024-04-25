@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
 # AI Community of Practice (AI CoP)
 
