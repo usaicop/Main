@@ -17,6 +17,11 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
 
 <div style="margin-top: 20px;">
     <h2 style="color: #199fb0;">
+<div align="center" style="margin-top: 20px; background-color: #99d4dc; padding: 15px; border-radius: 8px;">
+    <h2 style="color: #4cb4c2;">Join the Discussion!</h2>
+    <p>For the latest updates, discussions, and events, participate in our community:</p>
+    <a href="https://github.com/GSA-AI-Community-of-Practice/Main/discussions" style="color: #7fcad3; font-size: 18px; text-decoration: none; font-weight: bold;">Click here to start chatting</a>
+</div>
 
 
 <h2>Federal AI Resources</h2>
