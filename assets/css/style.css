@@ -1,3 +1,4 @@
+/* Basic Reset */
 * {
     margin: 0;
     padding: 0;
@@ -6,25 +7,24 @@
 
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
     color: #333;
-    background-color: #f4f4f4; /* Slightly off-white background for less glare */
-    padding: 0 96px; /* Adds padding of about an inch on left and right */
+    background-color: #f4f4f4;
+    padding: 0 96px; /* Padding for about an inch on the sides */
 }
 
 .container {
-    max-width: 960px; /* Adjust max-width as needed */
-    margin: 0 auto; /* Centers the container */
-    background-color: #fff; /* White background for the content area */
-    padding: 20px; /* Padding inside the container for better spacing around content */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds subtle shadow for depth */
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 header, footer {
-    background-color: #333; /* Dark background for header and footer */
+    background-color: #333;
     color: white;
     text-align: center;
-    padding: 20px 0; /* Padding for top and bottom */
+    padding: 20px 0;
 }
 
 nav {
@@ -41,19 +41,30 @@ nav a {
 }
 
 main {
-    padding: 20px 0; /* Padding only top and bottom, as container handles sides */
+    padding: 20px 0;
 }
 
 article {
-    margin-bottom: 20px;
+    margin-bottom: 40px; /* Increased margin for better separation between sections */
     padding: 20px;
+    line-height: 1.15; /* Custom line spacing within each section */
+}
+
+ul {
+    margin-left: 20px; /* Adjust left margin for bullet lists */
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px; /* Spacing below each list item */
+    line-height: 1.5; /* Slightly more line height for list items */
 }
 
 @media (max-width: 768px) {
     body {
-        padding: 0 10px; /* Less padding on smaller screens */
+        padding: 0 10px; /* Smaller padding for smaller screens */
     }
     .container {
-        padding: 10px; /* Smaller padding inside the container on smaller screens */
+        padding: 10px;
     }
 }
