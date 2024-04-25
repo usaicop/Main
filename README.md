@@ -1,43 +1,58 @@
-<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+<div align="center">
+    <h1>Welcome to the AI Community of Practice (AI CoP)</h1>
+</div>
 
-# AI Community of Practice (AI CoP)
+Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space is dedicated to fostering collaboration, sharing resources, and advancing the use of artificial intelligence within the federal government. Here, you’ll find code repositories, collaborative projects, and a wealth of resources related to AI technologies, policies, and best practices.
 
-Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space is dedicated to fostering collaboration, sharing resources, and advancing the use of artificial intelligence within the federal government. Here, you'll find code repositories, collaborative projects, and a wealth of resources related to AI technologies, policies, and best practices.
+<div style="background-color: #cce9ed; padding: 10px; border-radius: 8px;">
+    <h2 style="color: #0095AB;"> About the AI COP</h2>
+    The AI Community of Practice is a collaborative forum for federal employees and contractors who are engaged in AI-related projects across various agencies. Our mission is to share knowledge, experiences, and resources to drive innovation and excellence in the application of artificial intelligence within the government.
+<div align="center" style="margin-top: 20px; background-color: #99d4dc; padding: 15px; border-radius: 8px;">
+    <h2 style="color: #4cb4c2;">Join the Discussion!</h2>
+    <p>For the latest updates, discussions, and events, participate in our community:</p>
+    <a href="https://github.com/GSA-AI-Community-of-Practice/Main/discussions" style="color: #7fcad3; font-size: 18px; text-decoration: none; font-weight: bold;">Click here to start chatting</a>
+</div>
 
-## 🌟 About AI COP
+</div>
 
-The AI Community of Practice is a collaborative forum for federal employees and contractors who are engaged in AI-related projects across various agencies. Our mission is to share knowledge, experiences, and resources to drive innovation and excellence in the application of artificial intelligence within the government.
+<div style="margin-top: 20px;">
+    <h2 style="color: #199fb0;">
 
-## 📚 Federal AI Resources
 
-Below is a list of important federal AI resources, including guidance, standards, and executive orders. These documents provide a framework for understanding and implementing AI technologies in federal operations.
+<h2>Federal AI Resources</h2>
+<p>Below is a list of important federal AI resources, including guidance, standards, and executive orders. These documents provide a framework for understanding and implementing AI technologies in federal operations.</p>
 
-### Guidance and Best Practices
-  - **AI.gov** - The official website for AI initiatives across the federal government. [Visit AI.gov](https://www.ai.gov/)
-  - **NIST AI Framework** - Guidelines and frameworks for AI from the National Institute of Standards and Technology. [Explore NIST AI Framework](https://www.nist.gov/ai)
-  - **Federal Data Strategy** - Strategies for leveraging data as a strategic asset. [Read the Federal Data Strategy](https://strategy.data.gov/)
+<h3>Guidance and Best Practices</h3>
+<ul>
+  <li><a href="https://www.ai.gov/" target="_blank">AI.gov</a> - The official website for AI initiatives across the federal government.</li>
+  <li><a href="https://www.nist.gov/ai" target="_blank">NIST AI Framework</a> - Guidelines and frameworks for AI from the National Institute of Standards and Technology.</li>
+  <li><a href="https://strategy.data.gov/" target="_blank">Federal Data Strategy</a> - Strategies for leveraging data as a strategic asset.</li>
+</ul>
 
-### Standards
-  - **ISO/IEC JTC 1/SC 42 Artificial intelligence** - International standards for AI. [View ISO/IEC JTC 1/SC 42](https://www.iso.org/committee/6794475.html)
-  - **NIST AI Standards and Guidelines** - Explore standards and guidelines for AI technologies. [Find NIST AI Standards](https://www.nist.gov/topics/artificial-intelligence/standards-and-guidelines)
+<h3>Standards</h3>
+<ul>
+  <li><a href="https://www.iso.org/committee/6794475.html" target="_blank">ISO/IEC JTC 1/SC 42 Artificial intelligence</a> - International standards for AI.</li>
+  <li><a href="https://www.nist.gov/topics/artificial-intelligence/standards-and-guidelines" target="_blank">NIST AI Standards and Guidelines</a> - Explore standards and guidelines for AI technologies.</li>
+</ul>
 
-### Executive Orders and Policies
-  - **Executive Order on Maintaining American Leadership in Artificial Intelligence (EO 13859)** - [Read EO 13859](https://www.federalregister.gov/documents/2019/02/14/2019-02544/maintaining-american-leadership-in-artificial-intelligence)
-  - **National AI Initiative Act of 2020** - [Learn about the National AI Initiative Act](https://www.congress.gov/bill/116th-congress/house-bill/6216/text)
+<h3>Executive Orders and Policies</h3>
+<ul>
+  <li><a href="https://www.federalregister.gov/documents/2019/02/14/2019-02544/maintaining-american-leadership-in-artificial-intelligence" target="_blank">Executive Order on Maintaining American Leadership in Artificial Intelligence (EO 13859)</a> - Read EO 13859.</li>
+  <li><a href="https://www.congress.gov/bill/116th-congress/house-bill/6216/text" target="_blank">National AI Initiative Act of 2020</a> - Learn about the National AI Initiative Act.</li>
+</ul>
 
-### Federal Agency AI Initiatives
-  - **Department of Defense (DoD) AI Strategy** - [View the DoD AI Strategy](https://www.ai.mil/docs/Summary_of_the_2018_DoD_AI_Strategy.pdf)
-  - **NASA's Frontier Development Lab** - Information on AI applications in space exploration. [Discover NASA Frontier Development Lab](https://frontierdevelopmentlab.org/)
-  - **Department of Energy (DoE) Artificial Intelligence and Technology Office** - [Explore DoE AI and Technology](https://www.energy.gov/aito/artificial-intelligence-and-technology-office)
+<h3>Federal Agency AI Initiatives</h3>
+<ul>
+  <li><a href="https://www.ai.mil/docs/Summary_of_the_2018_DoD_AI_Strategy.pdf" target="_blank">Department of Defense (DoD) AI Strategy</a> - View the DoD AI Strategy.</li>
+  <li><a href="https://frontierdevelopmentlab.org/" target="_blank">NASA's Frontier Development Lab</a> - Information on AI applications in space exploration.</li>
+  <li><a href="https://www.energy.gov/aito/artificial-intelligence-and-technology-office" target="_blank">Department of Energy (DoE) Artificial Intelligence and Technology Office</a> - Explore DoE AI and Technology.</li>
+</ul>
 
-## 🛠️ Contributing to AI COP
+<h2>🛠️ Contributing to AI COP</h2>
+<p>Contributions from community members are welcome, whether it's sharing a project, improving documentation, or contributing code. Please see our <a href="CONTRIBUTING.md">Contributing Guidelines</a> for more information on how to get involved. 
 
-Contributions from community members are welcome, whether it's sharing a project, improving documentation, or contributing code. Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved. [visit this option](README2.md)
+<h2>📢 Stay Connected</h2>
+<p>For the latest updates, discussions, and events, join our <a href="mailto:ai-cop@listserv.gov">AI COP mailing list</a> or participate in our monthly meetings. Details can be found on our <a href="EVENTS.md">Events Page</a>.</p>
 
-## 📢 Stay Connected
-
-For the latest updates, discussions, and events, join our [AI COP mailing list](mailto:ai-cop@listserv.gov) or participate in our monthly meetings. Details can be found on our [Events Page](EVENTS.md).
-
----
-
-Thank you for visiting the AI Community of Practice GitHub page. Together, we can leverage artificial intelligence to create a more efficient, innovative, and inclusive federal government. Let's innovate together!
+<hr>
+<p>Thank you for visiting the AI Community of Practice GitHub page. Together, we can leverage artificial intelligence to create a more efficient, innovative, and inclusive federal government. Let's innovate together!</p>
