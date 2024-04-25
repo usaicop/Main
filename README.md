@@ -32,7 +32,7 @@ Below is a list of important federal AI resources, including guidance, standards
 
 ## 🛠️ Contributing to AI COP
 
-Contributions from community members are welcome, whether it's sharing a project, improving documentation, or contributing code. Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved. (README2.md)
+Contributions from community members are welcome, whether it's sharing a project, improving documentation, or contributing code. Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved. [visit this option](README2.md)
 
 ## 📢 Stay Connected
 
