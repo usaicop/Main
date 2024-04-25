@@ -9,14 +9,14 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
     The AI Community of Practice is a collaborative forum for federal employees and contractors who are engaged in AI-related projects across various agencies. Our mission is to share knowledge, experiences, and resources to drive innovation and excellence in the application of artificial intelligence within the government.
 </div>
 
-</div>
+
 
 <div style="margin-top: 20px;">
-    <h2 style="color: #199fb0;">
+    <h2 style="color: #FFFFFF;">
 <div align="center" style="margin-top: 20px; background-color: #72b231; padding: 15px; border-radius: 8px;">
-    <h2 style="color: #4cb4c2;">Join the Discussion!</h2>
+    <h2 style="color: #FFFFFF;">Join the Discussion!</h2>
     <p>For the latest updates, discussions, and events, participate in our community:</p>
-    <a href="https://github.com/GSA-AI-Community-of-Practice/Main/discussions" style="color: #7fcad3; font-size: 18px; text-decoration: none; font-weight: bold;">Click here to start chatting</a>
+    <a href="https://github.com/GSA-AI-Community-of-Practice/Main/discussions" style="color: #FFFFFF; font-size: 18px; text-decoration: none; font-weight: bold;">Click here to start chatting</a>
 </div>
 
 
