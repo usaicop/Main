@@ -1,3 +1,4 @@
+/* Basic Reset */
 * {
     margin: 0;
     padding: 0;
@@ -5,73 +6,55 @@
 }
 
 body {
-    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #fff;
     color: #333;
+    background-color: #f4f4f4; /* Slightly off-white background for less glare */
+    padding: 0 96px; /* Adds padding of about an inch on left and right */
 }
 
 .container {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 20px;
+    max-width: 960px; /* Adjust max-width as needed */
+    margin: 0 auto; /* Centers the container */
+    background-color: #fff; /* White background for the content area */
+    padding: 20px; /* Padding inside the container for better spacing around content */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds subtle shadow for depth */
 }
 
-header {
-    background-color: #005a63;
+header, footer {
+    background-color: #333; /* Dark background for header and footer */
     color: white;
-    padding: 20px;
     text-align: center;
-}
-
-.flex-container {
-    display: flex;
-    min-height: 80vh;
+    padding: 20px 0; /* Padding for top and bottom */
 }
 
 nav {
-    flex: 1;
-    background-color: #f4f4f4;
-    padding: 20px;
+    background-color: #555;
+    padding: 10px 0;
+    text-align: center;
 }
 
-nav ul {
-    list-style: none;
-}
-
-nav ul li a {
+nav a {
+    color: white;
+    padding: 10px 20px;
     text-decoration: none;
-    color: #333;
-    display: block;
-    padding: 10px;
-    transition: background-color 0.3s;
-}
-
-nav ul li a:hover {
-    background-color: #ddd;
+    margin: 0 10px;
 }
 
 main {
-    flex: 3;
+    padding: 20px 0; /* Padding only top and bottom, as container handles sides */
+}
+
+article {
+    margin-bottom: 20px;
     padding: 20px;
 }
 
-footer {
-    background-color: #005a63;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
-
 @media (max-width: 768px) {
-    .flex-container {
-        flex-direction: column;
+    body {
+        padding: 0 10px; /* Less padding on smaller screens */
     }
-
-    nav, main {
-        padding: 10px;
+    .container {
+        padding: 10px; /* Smaller padding inside the container on smaller screens */
     }
 }
