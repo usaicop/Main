@@ -49,8 +49,8 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
   <li><a href="https://www.energy.gov/aito/artificial-intelligence-and-technology-office" target="_blank">Department of Energy (DoE) Artificial Intelligence and Technology Office</a> - Explore DoE AI and Technology.</li>
 </ul>
 
-<h2>Contributing to AI COP</h2>
-<p>Contributions from community members are welcome, whether it's sharing a project, improving documentation, or contributing code. Please see our <a href="CONTRIBUTING.md">Contributing Guidelines</a> for more information on how to get involved. 
+<h2>Interested in Contributing to the AI COP Github Site?</h2>
+<p>Contributions from community members are welcome, whether it's sharing a project, improving documentation, or contributing code. Please see our <a href="https://gsa-ai-community-of-practice.github.io/Main/contributing/">"Contributing Guidelines</a> for more information on how to get involved. 
 
 <h2>Stay Connected</h2>
 <p>For the latest updates, discussions, and events, join our <a href="mailto:ai-cop@listserv.gov">AI COP mailing list</a> or participate in our monthly meetings. Details can be found on our <a href="EVENTS.md">Events Page</a>.</p>
