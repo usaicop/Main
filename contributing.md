@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
 # Contributing to GSA Artificial Intelligence Community of Practice
 
 Thank you for your interest in contributing to the GSA Artificial Intelligence Community of Practice! We value the contributions from our community members and look forward to your participation.
