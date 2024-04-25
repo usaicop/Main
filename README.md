@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.html
+layout: default
 title: Main Page
 ---
 
