@@ -1,3 +1,7 @@
+---
+layout: default.html
+title: Main Page
+---
 
 # AI Community of Practice (AI CoP)
 
