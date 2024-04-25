@@ -1,3 +1,9 @@
+---
+layout: layouts/default.html
+title: CONTRUBUTING
+permalink: /about/
+---
+
 # Contributing to GSA Artificial Intelligence Community of Practice
 
 Thank you for your interest in contributing to the GSA Artificial Intelligence Community of Practice! We value the contributions from our community members and look forward to your participation.
