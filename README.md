@@ -36,10 +36,6 @@ Contributions from community members are welcome, whether it's sharing a project
 
 For the latest updates, discussions, and events, join our [AI COP mailing list](mailto:ai-cop@listserv.gov) or participate in our monthly meetings. Details can be found on our [Events Page](EVENTS.md).
 
-## 📄 License
-
-All content in this repository is available under the [MIT License](LICENSE.md) unless otherwise noted.
-
 ---
 
 Thank you for visiting the AI Community of Practice GitHub page. Together, we can leverage artificial intelligence to create a more efficient, innovative, and inclusive federal government. Let's innovate together!
