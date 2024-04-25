@@ -20,13 +20,35 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
     <p>Below is a list of important federal AI resources, including guidance, standards, and executive orders. These documents provide a framework for understanding and implementing AI technologies in federal operations.</p>
 
 
-### Guidance and Best Practices
+<h2>📚 Federal AI Resources</h2>
+<p>Below is a list of important federal AI resources, including guidance, standards, and executive orders. These documents provide a framework for understanding and implementing AI technologies in federal operations.</p>
 
-<div style="color: #32aab9;"><strong>Guidance and Best Practices</strong></div>
+<h3>Guidance and Best Practices</h3>
+<ul>
+  <li><a href="https://www.ai.gov/" target="_blank">AI.gov</a> - The official website for AI initiatives across the federal government.</li>
+  <li><a href="https://www.nist.gov/ai" target="_blank">NIST AI Framework</a> - Guidelines and frameworks for AI from the National Institute of Standards and Technology.</li>
+  <li><a href="https://strategy.data.gov/" target="_blank">Federal Data Strategy</a> - Strategies for leveraging data as a strategic asset.</li>
+</ul>
 
-- ![AI.gov](https://img.shields.io/badge/-AI.gov-32aab9?style=flat-square&logo=appveyor) [AI.gov](https://www.ai.gov) - The official website for AI initiatives across the federal government.
-- ![NIST AI Framework](https://img.shields.io/badge/-NIST%20AI%20Framework-32aab9?style=flat-square&logo=appveyor) [NIST AI Framework](https://www.nist.gov/ai) - Guidelines and frameworks for AI from the National Institute of Standards and Technology.
-- ![Federal Data Strategy](https://img.shields.io/badge/-Federal%20Data%20Strategy-32aab9?style=flat-square&logo=appveyor) [Federal Data Strategy](https://strategy.data.gov) - Strategies for leveraging data as a strategic asset.
+<h3>Standards</h3>
+<ul>
+  <li><a href="https://www.iso.org/committee/6794475.html" target="_blank">ISO/IEC JTC 1/SC 42 Artificial intelligence</a> - International standards for AI.</li>
+  <li><a href="https://www.nist.gov/topics/artificial-intelligence/standards-and-guidelines" target="_blank">NIST AI Standards and Guidelines</a> - Explore standards and guidelines for AI technologies.</li>
+</ul>
+
+<h3>Executive Orders and Policies</h3>
+<ul>
+  <li><a href="https://www.federalregister.gov/documents/2019/02/14/2019-02544/maintaining-american-leadership-in-artificial-intelligence" target="_blank">Executive Order on Maintaining American Leadership in Artificial Intelligence (EO 13859)</a> - Read EO 13859.</li>
+  <li><a href="https://www.congress.gov/bill/116th-congress/house-bill/6216/text" target="_blank">National AI Initiative Act of 2020</a> - Learn about the National AI Initiative Act.</li>
+</ul>
+
+<h3>Federal Agency AI Initiatives</h3>
+<ul>
+  <li><a href="https://www.ai.mil/docs/Summary_of_the_2018_DoD_AI_Strategy.pdf" target="_blank">Department of Defense (DoD) AI Strategy</a> - View the DoD AI Strategy.</li>
+  <li><a href="https://frontierdevelopmentlab.org/" target="_blank">NASA's Frontier Development Lab</a> - Information on AI applications in space exploration.</li>
+  <li><a href="https://www.energy.gov/aito/artificial-intelligence-and-technology-office" target="_blank">Department of Energy (DoE) Artificial Intelligence and Technology Office</a> - Explore DoE AI and Technology.</li>
+</ul>
+
 
 
 </div>
