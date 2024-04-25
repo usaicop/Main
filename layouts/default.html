@@ -3,52 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GSA AI Community of Practice</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>{{ page.title | default: site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>GSA AI Community of Practice</h1>
+            <h1>{{ site.title }}</h1>
         </div>
     </header>
     
-    <nav>
-        <div class="container">
-            <a href="#home">Home</a>
-            <a href="#about">About</a>
-            <a href="#services">Services</a>
-            <a href="#contact">Contact</a>
-        </div>
-    </nav>
+    <div class="container flex-container">
+        <nav>
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+                <li><a href="{{ '/services/' | relative_url }}">Services</a></li>
+                <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+            </ul>
+        </nav>
 
-    <main>
-        <div class="container">
-            <section id="home">
-                <h2>Welcome</h2>
-                <p>Welcome to our GSA AI Community of Practice website where we explore and share our projects and insights.</p>
-            </section>
-
-            <section id="about">
-                <h2>About Us</h2>
-                <p>Learn more about our mission, vision, and the team behind our projects.</p>
-            </section>
-
-            <section id="services">
-                <h2>Our Services</h2>
-                <p>Discover the services we provide, designed to help you achieve your goals.</p>
-            </section>
-
-            <section id="contact">
-                <h2>Contact Us</h2>
-                <p>Have questions? Reach out to us through the following contact methods.</p>
-            </section>
-        </div>
-    </main>
+        <main>
+            {{ content }}
+        </main>
+    </div>
 
     <footer>
         <div class="container">
-            <p>&copy; 2024 GSA AI Community of Practice. All rights reserved.</p>
+            <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
         </div>
     </footer>
 </body>
