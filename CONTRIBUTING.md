@@ -1,5 +1,7 @@
-<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-
+---
+layout: default
+title: Contributing
+---
 
 # Contributing to GSA Artificial Intelligence Community of Practice
 
