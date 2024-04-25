@@ -13,7 +13,6 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
     <h2 style="color: #199fb0;">📚 Federal AI Resources</h2>
     <p>Below is a list of important federal AI resources, including guidance, standards, and executive orders. These documents provide a framework for understanding and implementing AI technologies in federal operations.</p>
 
-  ### Guidance and Best Practices
 
 <div style="color: #32aab9;"><strong>Guidance and Best Practices</strong></div>
 
