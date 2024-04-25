@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
-# AI Community of Practice (COP) - Main GitHub Page
+# AI Community of Practice (AI CoP)
 
-Welcome to the AI Community of Practice (COP) GitHub repository! This space is dedicated to fostering collaboration, sharing resources, and advancing the use of artificial intelligence within the federal government. Here, you'll find code repositories, collaborative projects, and a wealth of resources related to AI technologies, policies, and best practices.
+Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space is dedicated to fostering collaboration, sharing resources, and advancing the use of artificial intelligence within the federal government. Here, you'll find code repositories, collaborative projects, and a wealth of resources related to AI technologies, policies, and best practices.
 
 ## 🌟 About AI COP
 
