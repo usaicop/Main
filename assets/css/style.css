@@ -6,67 +6,71 @@
 }
 
 body {
-    font-family: 'Segoe UI', Arial, sans-serif;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
     line-height: 1.6;
-    background-color: #F4F4F4;
+    background-color: #fff;
     color: #333;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 header {
-    background-color: #004165; /* Darker blue for a professional look */
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-}
-
-header h1 {
-    margin: 10px 0;
-}
-
-nav {
-    background: #005A70; /* Slightly lighter blue for contrast */
+    background-color: #4a90e2;
+    color: #ffffff;
     padding: 10px 0;
     text-align: center;
 }
 
+nav {
+    background-color: #e5e5e5;
+    padding: 10px 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 nav a {
-    color: white;
+    color: #333;
     padding: 10px 20px;
     text-decoration: none;
-    margin: 0 5px;
-    border-radius: 5px;
-    background: transparent;
+    margin: 0 10px;
 }
 
 nav a:hover {
-    background-color: #007B8A;
+    background-color: #d4d4d4;
 }
 
 main {
-    flex: 1;
-    padding: 20px;
-    text-align: center;
+    background: #ffffff;
+    padding: 20px 0;
 }
 
 section {
     margin-bottom: 20px;
     padding: 20px;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-bottom: 2px solid #e5e5e5;
+}
+
+h1, h2 {
+    color: #333;
 }
 
 footer {
-    background-color: #005A70;
+    background-color: #4a90e2;
     color: white;
     text-align: center;
     padding: 10px 0;
+    margin-top: 20px;
 }
 
 @media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
     nav a {
         display: block;
         margin-bottom: 5px;
