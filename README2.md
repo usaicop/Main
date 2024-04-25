@@ -49,7 +49,7 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
 </ul>
 
 <h2>🛠️ Contributing to AI COP</h2>
-<p>Contributions from community members are welcome, whether it's sharing a project, improving documentation, or contributing code. Please see our <a href="CONTRIBUTING.md">Contributing Guidelines</a> for more information on how to get involved. <a href="README2.md">visit this option</a></p>
+<p>Contributions from community members are welcome, whether it's sharing a project, improving documentation, or contributing code. Please see our <a href="CONTRIBUTING.md">Contributing Guidelines</a> for more information on how to get involved. 
 
 <h2>📢 Stay Connected</h2>
 <p>For the latest updates, discussions, and events, join our <a href="mailto:ai-cop@listserv.gov">AI COP mailing list</a> or participate in our monthly meetings. Details can be found on our <a href="EVENTS.md">Events Page</a>.</p>
