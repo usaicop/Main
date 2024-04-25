@@ -1,8 +1,3 @@
----
-layout: default
-title: Main Page
----
-
 # AI Community of Practice (AI CoP)
 
 Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space is dedicated to fostering collaboration, sharing resources, and advancing the use of artificial intelligence within the federal government. Here, you'll find code repositories, collaborative projects, and a wealth of resources related to AI technologies, policies, and best practices.
