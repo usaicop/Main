@@ -55,9 +55,19 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
 <h2>Stay Connected</h2>
 <p>For the latest updates, discussions, and events, join our <a href="mailto:ai-cop@listserv.gov">AI COP mailing list</a> or participate in our monthly meetings. Details can be found on our <a href="EVENTS.md">Events Page</a>.</p>
 
-<hr>
-
-<script type='module' src='https://tableau.d2d.gsa.gov/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://tableau.d2d.gsa.gov/views/AICOPTrainingSeriesDashboard/StanfordHAIRegistrations' width='1000' height='840' hide-tabs toolbar='bottom' ></tableau-viz>
-
-<hr>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau Visualization</title>
+    <!-- Include the Tableau JavaScript API -->
+    <script type='module' src='https://tableau.d2d.gsa.gov/javascripts/api/tableau.embedding.3.latest.min.js'></script>
+</head>
+<body>
+    <hr>
+    <tableau-viz id='tableau-viz' src='https://tableau.d2d.gsa.gov/views/AICOPTrainingSeriesDashboard/StanfordHAIRegistrations' width='1000' height='840' hide-tabs toolbar='bottom'></tableau-viz>
+    <hr>
+</body>
+</html>
 <p>Thank you for visiting the AI Community of Practice GitHub page. Together, we can leverage artificial intelligence to create a more efficient, innovative, and inclusive federal government. Let's innovate together!</p>
