@@ -62,7 +62,7 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tableau Visualization</title>
     <!-- Include the Tableau JavaScript API -->
-    <script type='module' src='https://tableau.d2d.gsa.gov/javascripts/api/tableau.embedding.3.latest.min.js'></script>
+    <script type='module' src='[https://tableau.d2d.gsa.gov/authoring/StanfordHAI2023/StanfordHAIRegistrations#2'></script>
 </head>
 <body>
     <hr>
