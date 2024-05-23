@@ -9,13 +9,20 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
     The AI Community of Practice is a collaborative forum for federal employees and contractors who are engaged in AI-related projects across various agencies. Our mission is to share knowledge, experiences, and resources to drive innovation and excellence in the application of artificial intelligence within the government.
 </div>
 
-   <div align="center"> <div style="margin-top: 20px; text-align: center;">
-    <div style="margin-top: 20px; background-color: #72b231; padding: 15px; border-radius: 8px;">
-        <h2 style="color: #FFFFFF;"><a href="https://github.com/GSA-AI-Community-of-Practice/Main/discussions" style="color: #FFFFFF; text-decoration: none;">Join the Discussion!</a></h2>   <div align="center">
-        <p>For the latest updates, discussions, and events, participate in our community:</p>
-
 </div>
 
+
+
+<div style="margin-top: 20px;">
+    <h2 style="color: #FFFFFF;">
+<div align="center" style="margin-top: 20px; background-color: #72b231; padding: 15px; border-radius: 8px;">
+    <h2 style="color: #FFFFFF;"><a href="https://github.com/GSA-AI-Community-of-Practice/Main/discussions" style="color: #FFFFFF; text-decoration: none;">Join the Discussion!</a></h2> 
+    <p>For the latest updates, discussions, and events, participate in our community:</p>
+  
+</div>
+
+
+<h2>
 <h2>Federal AI Resources</h2>
 <p>Below is a list of important federal AI resources, including guidance, standards, and executive orders. These documents provide a framework for understanding and implementing AI technologies in federal operations.</p>
 
