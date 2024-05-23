@@ -17,7 +17,7 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
     <h2 style="color: #FFFFFF;">
             <h2><a href="https://github.com/GSA-AI-Community-of-Practice/Main/discussions" style="color: inherit; text-decoration: none;">Join the Discussion!</a></h2>
             <p>For the latest updates, discussions, and events, participate in our community.</p>
-        </section>
+        </section> </div>
 
 
 <h2>Federal AI Resources</h2>
