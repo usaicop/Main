@@ -55,4 +55,6 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
 <h2>Stay Connected</h2>
 <p>For the latest updates, discussions, and events, join our <a href="mailto:ai-cop@listserv.gov">AI COP mailing list</a> or participate in our monthly meetings. Details can be found on our <a href="EVENTS.md">Events Page</a>.</p>
 <h2>
-<p>Thank you for visiting the AI Community of Practice GitHub page. Together, we can leverage artificial intelligence to create a more efficient, innovative, and inclusive federal government. Let's innovate together!</p>
+    <div align="center">
+<p>Thank you for visiting the AI Community of Practice GitHub page. <h2>
+    <div align="center"> Together, we can leverage artificial intelligence to create a more efficient, innovative, and inclusive federal government. Let's innovate together!</p>
