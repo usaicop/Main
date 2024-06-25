@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI CoP Enrollment Form</title>
+</head>
+<body>
+    <form id="ai-cop-form" action="/submit" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br>
+
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="title" required><br>
+
+        <label for="agency">Agency:</label>
+        <input type="text" id="agency" name="agency" required><br>
+
+        <label for="github">GitHub Handle:</label>
+        <input type="text" id="github" name="github"><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br>
+
+        <fieldset>
+            <legend>Interest Areas (Select as many that apply):</legend>
+            <label><input type="checkbox" name="interests" value="Computer Vision"> Computer Vision</label><br>
+            <label><input type="checkbox" name="interests" value="Generative AI"> Generative AI</label><br>
+            <label><input type="checkbox" name="interests" value="Natural Language Processing"> Natural Language Processing</label><br>
+            <label><input type="checkbox" name="interests" value="AI Security"> AI Security</label><br>
+            <label><input type="checkbox" name="interests" value="Reinforcement Learning"> Reinforcement Learning</label><br>
+            <label><input type="checkbox" name="interests" value="Responsible AI"> Responsible AI</label><br>
+            <label><input type="checkbox" name="interests" value="Terms of Service"> Terms of Service</label><br>
+            <label><input type="checkbox" name="interests" value="Procurement"> Procurement</label><br>
+            <label><input type="checkbox" name="interests" value="Policy"> Policy</label><br>
+            <label><input type="checkbox" name="interests" value="State/Local/Tribal Gov."> State/Local/Tribal Gov.</label><br>
+            <label><input type="checkbox" name="interests" value="Community Events"> Community Events</label><br>
+            <label><input type="checkbox" name="interests" value="Speakers Bureau"> Speakers Bureau</label><br>
+            <label><input type="checkbox" name="interests" value="Training"> Training</label><br>
+        </fieldset>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const allowedDomains = [".gov", ".si.edu", ".mil"]; // Extend this list as needed
+
+            const form = document.getElementById("ai-cop-form");
+            form.addEventListener("submit", function(event) {
+                const email = document.getElementById("email").value;
+                const domain = email.substring(email.lastIndexOf("@") + 1).toLowerCase();
+                
+                const isDomainAllowed = allowedDomains.some(allowedDomain => domain.endsWith(allowedDomain));
+                if (!isDomainAllowed) {
+                    alert("Only emails from allowed domains are accepted.");
+                    event.preventDefault(); // Prevent form submission
+                }
+            });
+        });
+    </script>
+</body>
+</html>
