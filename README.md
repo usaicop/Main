@@ -36,7 +36,7 @@ Welcome to the AI Community of Practice (AI CoP) GitHub repository. This space i
 <h3>Standards</h3>
 <ul>
   <li><a href="https://www.iso.org/committee/6794475.html" target="_blank">ISO/IEC JTC 1/SC 42 Artificial intelligence</a> - International standards for AI.</li>
-  <li><a href="https://www.nist.gov/topics/artificial-intelligence/standards-and-guidelines" target="_blank">NIST AI Standards and Guidelines</a> - Explore standards and guidelines for AI technologies.</li>
+  <li><a href="https://www.nist.gov/artificial-intelligence/ai-standards" target="_blank">NIST AI Standards and Guidelines</a> - Explore standards and guidelines for AI technologies.</li>
 </ul>
 
 <h3>Executive Orders and Policies</h3>
